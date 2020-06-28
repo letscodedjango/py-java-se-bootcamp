@@ -1,0 +1,35 @@
+body{
+			font-family: 'Fredoka One', sans-serif;
+			text-align: center;
+		}
+
+		h1{
+			font-family: 'Fredoka One', cursive;
+		}
+
+		h1#main-heading{
+			
+			color: #B00020;
+		}
+		em{
+			color:#9575CD;
+		}
+
+		button, input{
+			background-color: #880E4F;
+			color:#fff;
+			padding: 10px;
+		}
+
+		input{
+			margin-bottom: 10px;
+		}
+
+		img{
+			margin-bottom: 15px;
+		}
+
+		a{
+			color:#00B0FF;
+		}
+	
